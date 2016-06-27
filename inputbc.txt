@@ -1,0 +1,775 @@
+1, 22, 42, Europe, February, 16, 1995, 40
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 10
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+2, 25, 55, Asia, January, 23, 1990, 33
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+3, 75, 75, North America, August, 30, 2010, 78
+4, 12, 34, Africa, December, 31, 1999, 95
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+4, 12, 34, Africa, December, 31, 1999, 95
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+4, 12, 34, Africa, December, 31, 1999, 95
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+4, 12, 34, Africa, December, 31, 1999, 95
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+4, 12, 34, Africa, December, 31, 1999, 95
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+4, 12, 34, Africa, December, 31, 1999, 95
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 1995, 35
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, Europe, February, 16, 2004, 43
+5, 22, 42, South America, February, 16, 2001, 65
